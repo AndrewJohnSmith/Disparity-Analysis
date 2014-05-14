@@ -1,4 +1,5 @@
 Scripts contained in this repository will perform a series of disparity methods.
+The scripts are permently on Dryad (http://datadryad.org/resource/doi:10.5061/dryad.d380g) and are assocaited with the paper "Smith, A. J., Rosario, M. V., Eiting T. P., Dumont E. R., 2014. Joined at the hip: linked characters and the study of missing data in studies of disparity. Evolution. doi: 10.1111/evo.12435"
 
 At the moment this script calculates Sum of Ranges, Product of Ranges, Sum of Variances, and Product of Variances. The method is based on Wills et al. 1994 method.
 
